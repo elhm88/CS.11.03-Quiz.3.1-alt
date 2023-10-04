@@ -36,8 +36,8 @@ class MainTest {
 
     @org.junit.jupiter.api.Test
     void endUp() {
-        assertEquals("HEllo", Main.endDown(“HELLO”));
-        assertEquals("FOR Sure", Main.endDown(“FOR SURE”));
-        assertEquals("gg", Main.endDown(“GG”));
+        assertEquals("HEllo", Main.endDown("HELLO"));
+        assertEquals("FOR Sure", Main.endDown("FOR SURE"));
+        assertEquals("gg", Main.endDown("GG"));
     }
 }
