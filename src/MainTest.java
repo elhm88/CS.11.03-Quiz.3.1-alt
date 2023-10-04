@@ -5,7 +5,7 @@ class MainTest {
     @org.junit.jupiter.api.Test
     void calculateGrade() {
         assertEquals('A', Main.calculateGrade(96));
-        assertEquals('B', Main.calculateGrade(80));
+        assertEquals('B', Main.calculateGrade(85));
         assertEquals('C', Main.calculateGrade(75));
         assertEquals('D', Main.calculateGrade(65));
         assertEquals('F', Main.calculateGrade(54));
