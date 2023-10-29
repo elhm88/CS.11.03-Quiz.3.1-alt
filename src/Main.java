@@ -18,6 +18,6 @@ public class Main {
 
     // Question 4 - twoAsOne
 
-    // Question 5 - endUp
+    // Question 5 - endDown
 
 }
