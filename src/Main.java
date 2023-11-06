@@ -1,11 +1,11 @@
 /*
-*   Name:
-*   Section:
+*   Name: Emily Ma
+*   Section: Section 12
 *
 *   Academic Honesty Pledge:
 *   "I have neither given nor received any unauthorized aid on this piece of work."
 *
-*   Signed ______  Date _______
+*   Signed Emily Ma  Date Nov 6 2023
 * */
 
 import org.w3c.dom.ls.LSOutput;
